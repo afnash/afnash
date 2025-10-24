@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afnash&count_private=true&show_icons=true&theme=radical" alt="Afnash's GitHub stats" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=afnash&count_private=true&show_icons=true&theme=radical" alt="GitHub stats" width="47%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnash&layout=compact&theme=radical" alt="Top languages" width="47%">
 </p>
 
