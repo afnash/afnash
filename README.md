@@ -1,111 +1,235 @@
-<h1 align="center">Hi, I'm Afnash Ali P 👋</h1>
-<p align="center">
-  <img src="https://github.com/afnash.png" alt="Afnash" width="120" style="border-radius:50%;">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:iamafnash@gmail.com"><img src="https://img.shields.io/badge/Email-iamafnash%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email"></a>
-  <a href="https://afnash.vercel.app"><img src="https://img.shields.io/badge/Portfolio-afnash.vercel.app-0ea5a4?style=flat&logo=vercel&logoColor=white" alt="portfolio"></a>
-  <a href="https://github.com/afnash"><img src="https://img.shields.io/badge/GitHub-@afnash-181717?style=flat&logo=github&logoColor=white" alt="github"></a>
-  <a href="https://www.linkedin.com/in/afnash-ali/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"></a>
-  <span>📞 +91-7902981323</span>
-</p>
+# Hi, I'm Afnash Ali 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afnash&count_private=true&show_icons=true&theme=radical" alt="GitHub stats" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnash&layout=compact&theme=radical" alt="Top languages" width="47%">
-</p>
+### AI Backend Engineer • Backend Developer • Computer Science Undergraduate
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afnash&theme=onedark&margin-w=10" alt="GitHub trophies" />
-</p>
+Building scalable backend systems, AI-powered applications, and developer tools.
+
+[Portfolio](https://afnash.vercel.app) •
+[LinkedIn](https://linkedin.com/in/afnash-ali) •
+[Email](mailto:iamafnash@gmail.com)
+
+</div>
 
 ---
 
-### About me
-Passionate web developer and tech enthusiast currently pursuing B.Tech (CSE) at Cochin University of Science and Technology (CUSAT). I build reliable web solutions and enjoy working across backend and frontend stacks. I am exploring data analysis, networking, and ML/AI. Adaptive, quick learner, and enjoy collaborating on impactful projects.
+## About Me
+
+I'm a Computer Science undergraduate at **CUSAT** currently working as an **AI Backend Engineer**.
+
+My interests include:
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Backend Engineering
+- Distributed Systems
+- Cloud Computing
+
+Currently exploring multi-agent systems, AI automation, and production-grade backend architectures.
 
 ---
 
-### Experience
-- **Intern — Cognifyr.Co, Kochi** (21 May 2025 – 30 Jun 2025)  
-  Backend developer & tester for ONES (a Gate & PSC coaching platform). Built admin dashboard and student view pages; wrote tests and fixed backend issues.
+## Tech Stack
 
-- **Intern — Dockode Solutions Pvt Ltd, Calicut** (Apr 2024)  
-  Web development using Python & Django. Built apps, assisted backend engineers with bug fixes and testing.
+### Languages
 
-- **Organizer — Make-A-Ton 7.0** (Oct 2024)  
-  Organized an MLH-powered hackathon. Handled sponsorship outreach and logistics; secured sponsors like GitHub, Logitech, Orkes, and GeeksforGeeks.
-
-- **Tech Lead — ACES, CUSAT** (Apr 2025 – Present)  
-  Lead technical initiatives, mentor juniors, and coordinate development projects and events.
-
-- **Django Mentor — EOC SOCE CUSAT** (Apr 2025 – Present)  
-  Mentored students on Django fundamentals, project structure, and best practices.
-
----
-
-### Selected Projects
-- **KMRL FinTech** — Python, Pandas, NumPy, PyQT  
-  Finance management app for Kochi Metro Rail Limited: consolidates multiple vendor statements (PhonePe, PayTM, EaseMyTrip, Nammayatri, Rapido, Redbus) and generates settlement reports.
-
-- **Pothichor** — React, Firebase, Gemini API  
-  Campus meal marketplace connecting students to homemade meal providers. Features listing limits, smart student search, and Gemini-powered nutrition analysis. (pothichor.web.app)
-
-- **FYUGP CUSAT 2025** — Django, PostgreSQL, Docker, AWS, REST API  
-  Backend for CUSAT’s Five-Year UG-PG portal covering admissions, real-time allotment, attendance, and student management. (fyugp.cusat.ac.in)
-
-- **Sargam 2025** — Django, PostgreSQL, Docker, AWS, React  
-  Backend for CUSAT’s Arts Fest: registration, profiles, and results management. (sargam.cusat.ac.in)
-
-- **Taskly** — Django, PostgreSQL, Supabase, Vercel  
-  Web-based project management tool (early development). (github.com/afnash/taskly)
-
-More projects: https://github.com/afnash
-
----
-
-### Technical Skills & Tools
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js"/>
 </p>
 
-Languages & frameworks: Python, JavaScript, Java, C, C++, Django, React  
-Databases: PostgreSQL, MySQL, SQLite, MongoDB  
-Platforms & tools: Docker, Linux, Git, GitHub, Supabase, AWS
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure"/>
+</p>
 
 ---
 
-### Education
-**B.Tech in Computer Science & Engineering**  
-Cochin University of Science and Technology (CUSAT) — 2023 – Present  
-GPA: 8.45
+# Experience
+
+### AI Backend Engineer
+**BeanOrbit International LLP**
+
+- AI Chatbots
+- RAG Systems
+- Dashboard Development
+- Plugin Integrations
 
 ---
 
-### Activities & Leadership
-- Technical Lead & Executive Member — ACES, CUSAT  
-- Organizer — Make-A-Ton 7.0  
-- Member — TinkerHub CUSAT  
-- Django Mentor — EOC SOCE CUSAT
+### Backend Developer
+
+Senior Adventures LLP
+
+- Backend APIs
+- Mobile Backend
+- Admin Dashboard
+- Testing
 
 ---
 
-### Contact
-Email: iamafnash@gmail.com  
-Phone: +91-7902981323  
-Portfolio: https://afnash.vercel.app  
-GitHub: https://github.com/afnash  
-LinkedIn: https://www.linkedin.com/in/afnash-ali/
+### Backend Developer
+
+Cognifyr.Co
+
+- Backend Development
+- API Optimization
+- Dashboard Development
 
 ---
 
-> “Adaptive, quick to learn, and enthusiastic about collaboration and continuous growth in tech-driven environments.”
+# Featured Projects
+
+## 🤖 AdSage AI
+
+AI-powered marketing intelligence platform using multi-agent AI for campaign analysis.
+
+**Stack**
+
+Python • React • Next.js • Gemini
+
+---
+
+## ⚙️ AutoFlow
+
+Developer platform combining CI/CD automation with AI-powered observability.
+
+Flask • React • Next.js • Prometheus
+
+---
+
+## 💻 Coding Lab Management System
+
+Complete management platform for programming laboratories.
+
+✔ AI-assisted code review
+
+✔ Submission Management
+
+✔ Analytics Dashboard
+
+✔ Faculty Evaluation
+
+**50+ code submissions**
+
+**20+ student profiles**
+
+---
+
+## 🚇 KMRL FinTech
+
+Automated financial reconciliation software.
+
+Reduced reconciliation time
+
+**15 Days ➜ 5 Minutes**
+
+---
+
+## 📱 Portify
+
+Cross-platform clipboard and file sharing.
+
+- WebSockets
+- JWT
+- Redis
+- <120ms latency
+- Cross Platform
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=afnash&show_icons=true&hide_border=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnash&layout=compact&hide_border=true&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=afnash&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afnash&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# Leadership
+
+- Chairperson — ACES CUSAT
+- Student Placement Coordinator — CUSAT
+- Core Lead — Make-A-Ton Hackathon
+- Django Mentor — SOCE & EOC CUSAT
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=afnash&theme=algolia&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# Currently Working On
+
+- 🤖 Production-grade AI Chatbots
+- 📚 Retrieval-Augmented Generation
+- ⚡ AI Workflow Automation
+- 🏗 Backend System Design
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:iamafnash@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/afnash-ali">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://afnash.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Building intelligent systems that solve real-world problems."*
+
+</div>
